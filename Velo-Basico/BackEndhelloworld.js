@@ -1,8 +1,5 @@
 import {webMethod, Permissions} from 'wix-web-module';
 
-// Para usar no backend use helloworld.web.js 
-// Este código funciona em conjunto do frontHelloWorld.js
-
 let pontuacao = 500;
 
 export const msg = webMethod(Permissions.Anyone, function Soma()
