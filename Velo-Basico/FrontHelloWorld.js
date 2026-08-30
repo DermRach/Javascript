@@ -1,4 +1,4 @@
-import {msg, anotherClass} from 'backend/helloworld.web';
+import {msg, anotherClass} from 'backend/BackEndhelloworld.web';
 
 // Este código funciona junto do helloworld.web.js (nesta pasta como helloworld.js
 // É preciso salvar no wix como web antes do .js porque ele trata as funções como módulos de web.
